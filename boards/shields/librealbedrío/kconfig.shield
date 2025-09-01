@@ -1,5 +1,0 @@
-config SHIELD_LIBREALBEDRÍO_LEFT
-    def_bool $(shields_list_contains,librealbedrío_left)
-
-config SHIELD_LIBREALBEDRÍO_RIGHT
-    def_bool $(shields_list_contains,librealbedrío_right)

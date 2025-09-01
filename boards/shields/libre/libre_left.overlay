@@ -1,4 +1,4 @@
-#include "librealbedrío_left.dtsi"
+#include "libre.dtsi"
 
 &kscan0 {
     col-gpios

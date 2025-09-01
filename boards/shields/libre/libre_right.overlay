@@ -1,4 +1,4 @@
-#include "librealbedrío.dtsi"
+#include "libre.dtsi"
 &default_transform {
     col-offset = <7>;
 };
