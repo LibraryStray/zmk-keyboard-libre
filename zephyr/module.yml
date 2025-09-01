@@ -3,9 +3,6 @@
 # Give your module a name
 name: zmk-keyboard-librealbedrío
 build:
-  # List your dependencies
-  depends:
-    - dt-bindings/zmk/matrix_transform.h
   # Kconfig filepath
   kconfig: Kconfig
   settings:
