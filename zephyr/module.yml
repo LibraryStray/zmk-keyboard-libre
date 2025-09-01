@@ -3,8 +3,6 @@
 # Give your module a name
 name: zmk-keyboard-librealbedrío
 build:
-  # Kconfig filepath
-  kconfig: boards/shields/librealbedrío
   settings:
     # Folder containing a "boards" folder (. = root)
     board_root: .
