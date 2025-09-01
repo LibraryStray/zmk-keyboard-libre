@@ -1,7 +1,7 @@
 # Delete all unused properties.
 
 # Give your module a name
-name: zmk-keyboard-librealbedrío
+name: zmk-keyboard-libre
 build:
   settings:
     # Folder containing a "boards" folder (. = root)
