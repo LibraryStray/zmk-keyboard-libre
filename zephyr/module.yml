@@ -4,7 +4,7 @@
 name: zmk-keyboard-librealbedrío
 build:
   # Kconfig filepath
-  kconfig: Kconfig
+  kconfig: boards/shields/librealbedrío
   settings:
     # Folder containing a "boards" folder (. = root)
     board_root: .
